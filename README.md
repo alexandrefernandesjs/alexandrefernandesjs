@@ -12,6 +12,8 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c/c++](https://img.shields.io/badge/C/C++-3776AB?style=for-the-badge&logo=c/c++&logoColor=white)
+![arduino](https://img.shields.io/badge/Arduino-3776AB?style=for-the-badge&logo=arduino&logoColor=white)
+![nodemcu](https://img.shields.io/badge/NodeMCU-3776AB?style=for-the-badge&logo=nodemcu&logoColor=white)
 <!-- ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
 
