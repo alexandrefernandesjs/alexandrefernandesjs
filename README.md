@@ -13,6 +13,10 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Cross Platfrom Development
+
+![ionic](https://img.shields.io/badge/Ionic-28B6F6?style=for-the-badge&logo=ionic&logoColor=white)
 <!--
 **alexandrefernandesjs/alexandrefernandesjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
