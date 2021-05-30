@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 🚀 Sobre Mim
+Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plataformas **Arduino, NodeMCU e OrangePI**)
 <!--
 **alexandrefernandesjs/alexandrefernandesjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
