@@ -40,7 +40,7 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
  -->
 
-## 📈 Estatisticas
+<!-- ## 📈 Estatisticas
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alexandrefernandesjs&show_icons=true&hide_border=true" alt="Alexandre Fernandes GitHub Stats">
@@ -48,7 +48,18 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=alexandrefernandesjs.alexandrefernandesjs" alt="visitors">
-</div>
+</div> -->
+
+----
+
+<img style="margin 1040px;" src=".github/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+
+<p align="justify">
+
+[![Alexandre github stats](https://github-readme-stats.vercel.app/api?username=alexandrefernandesjs&show_icons=true&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefernandesjs&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 ## 🔗 Links
