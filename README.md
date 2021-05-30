@@ -8,7 +8,7 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 
 ## 🛠️ Habilidades
 
-### Languages
+### Linguagens
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -43,6 +43,15 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=alexandrefernandesjs.alexandrefernandesjs" alt="visitors">
 </div>
+
+
+## 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexandrefernandesjs/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alexandrefernandesjs)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre.fernandesjs/)
+
+
 
 
 <!--
