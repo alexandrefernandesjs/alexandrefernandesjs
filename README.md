@@ -12,18 +12,21 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c/c++](https://img.shields.io/badge/C/C++-3776AB?style=for-the-badge&logo=c/c++&logoColor=white)
+
+### Plataformas
 ![arduino](https://img.shields.io/badge/Arduino-3776AB?style=for-the-badge&logo=arduino&logoColor=white)
 ![nodemcu](https://img.shields.io/badge/NodeMCU-3776AB?style=for-the-badge&logo=nodemcu&logoColor=white)
+![orangepi](https://img.shields.io/badge/OrangePI-3776AB?style=for-the-badge&logo=orangepi&logoColor=white)
 <!-- ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
 
-### Cross Platfrom Development
+<!-- ### Cross Platfrom Development
 
 ![ionic](https://img.shields.io/badge/Ionic-28B6F6?style=for-the-badge&logo=ionic&logoColor=white)
+ -->
 
 
-
-### Back-End Development
+<!-- ### Back-End Development
 
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
@@ -35,7 +38,7 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-
+ -->
 
 ## 📈 Estatisticas
 
