@@ -2,7 +2,8 @@
 
 ## 🚀 Sobre Mim
 
-Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plataformas **Arduino, NodeMCU e OrangePI**).
+Eu sou Alexandre Fernandes
+<!-- , um **Desenvolvedor Embarcado** (atuando com as plataformas **Arduino, NodeMCU e OrangePI**).
 
 👨‍💻 Gosto de contribuir para projetos de código aberto e estou realmente entusiasmado em aprender novas tecnologias.
 
@@ -16,7 +17,7 @@ Eu sou Alexandre Fernandes, um **Desenvolvedor Embarcado** (atuando com as plata
 ### Plataformas
 ![arduino](https://img.shields.io/badge/Arduino-3776AB?style=for-the-badge&logo=arduino&logoColor=white)
 ![nodemcu](https://img.shields.io/badge/NodeMCU-3776AB?style=for-the-badge&logo=nodemcu&logoColor=white)
-![orangepi](https://img.shields.io/badge/OrangePI-3776AB?style=for-the-badge&logo=orangepi&logoColor=white)
+![orangepi](https://img.shields.io/badge/OrangePI-3776AB?style=for-the-badge&logo=orangepi&logoColor=white) -->
 <!-- ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
 
