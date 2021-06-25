@@ -1,6 +1,6 @@
 ### Ola Dev's 👋
 
-## 🚀 Sobre Mim
+<!-- ## 🚀 Sobre Mim -->
 
 Eu sou Alexandre Fernandes
 <!-- , um **Desenvolvedor Embarcado** (atuando com as plataformas **Arduino, NodeMCU e OrangePI**).
