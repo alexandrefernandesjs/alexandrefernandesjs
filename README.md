@@ -1,8 +1,14 @@
 ## Oi! Eu sou o Alexandre Fernandes
-
+<!-- 
 <!-- ## 🚀 Sobre Mim -->
 
-Eu sou Alexandre Fernandes
+Eu sou Alexandre Fernandes -->
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!-- , um **Desenvolvedor Embarcado** (atuando com as plataformas **Arduino, NodeMCU e OrangePI**).
 
 👨‍💻 Gosto de contribuir para projetos de código aberto e estou realmente entusiasmado em aprender novas tecnologias.
