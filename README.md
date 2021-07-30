@@ -18,7 +18,6 @@
 <img style="margin 1040px;" src="https://raw.githubusercontent.com/Tharlys10/Tharlys10/master/.github/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 
-## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexandrefernandesjs/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alexandrefernandesjs)
