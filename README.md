@@ -1,4 +1,4 @@
-## Oi! Eu sou o Alexandre Fernandes  👋
+## Oi! Eu sou o Alexandre Fernandes
 
 <!-- ## 🚀 Sobre Mim -->
 
