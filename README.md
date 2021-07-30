@@ -60,13 +60,13 @@ Eu sou Alexandre Fernandes -->
 ----
 
 <img style="margin 1040px;" src="https://raw.githubusercontent.com/Tharlys10/Tharlys10/master/.github/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
-
+<!-- 
 <p align="justify">
 
 [![Alexandre github stats](https://github-readme-stats.vercel.app/api?username=alexandrefernandesjs&show_icons=true&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefernandesjs&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</p> -->
 
 
 ## 🔗 Links
