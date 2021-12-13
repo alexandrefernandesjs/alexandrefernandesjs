@@ -3,17 +3,17 @@
 <h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu Sou Alexandre Fernandes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrefernandesjs&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+<!-- - 🔥 Sênior Web Developer & Instructor focused on helping people start programming  -->
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+<!-- - 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat) -->
 
-- 👨‍💻 All of my projects are available at [alexandrefernandesjs.dev](https://alexandrefernandesjs.dev)
+<!-- - 👨‍💻 All of my projects are available at [alexandrefernandesjs.dev](https://alexandrefernandesjs.dev) -->
 
-- ▶️ I regularly post videos on [youtube.com/alexandrefernandesjs](https://youtube.com/alexandrefernandesjs)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
+<!-- - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS** -->
+
+<!-- - ⚡ Fun fact **Oneye 😜** -->
 
 <br><br>
 
