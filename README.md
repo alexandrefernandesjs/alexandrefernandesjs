@@ -1,7 +1,7 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alexandrefernandesjs/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alexandrefernandesjs/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu Sou Alexandre Fernandes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrefernandesjs&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrefernandesjs&color=yellow" alt="Profile views" /> </p> -->
 
 <!-- - 🔥 Sênior Web Developer & Instructor focused on helping people start programming  -->
 
@@ -15,7 +15,7 @@
 
 <!-- - ⚡ Fun fact **Oneye 😜** -->
 
-<br><br>
+<!-- <br><br>
 
 ## 🛠 &nbsp;Stack
 
@@ -28,15 +28,15 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
 
-<br><br>
+<!-- <br><br> -->
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics -->
 
-<p align="left">
+<!-- <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=alexandrefernandesjs&show_icons=true&theme=vision-friendly-dark" alt="alexandrefernandesjs's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefernandesjs&layout=compact&theme=vision-friendly-dark" alt="alexandrefernandesjs's most languages"/>
 </p>
@@ -54,7 +54,7 @@
  <img align="center" src="https://img.shields.io/badge/-alexandrefernandesjs-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
-</p>
+</p> -->
 
 
 
